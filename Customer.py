@@ -77,14 +77,14 @@ class Customer:
 
 
 #Test Cases
-customer1 = Customer("John", "Doe")
-customer2 = Customer("Jane", "Smith")
-customer3 = Customer('Mary', 'John')
-customer5 = Customer("John", "Doe")
+customer1 = Customer("Irene", "Annah")
+customer2 = Customer("Sheila", "Monroe")
+customer3 = Customer('Kelli', 'Mumbi')
+customer5 = Customer("Irene", "Annah")
 
 
-print(customer1.get_first_name())  # Output: John
-print(customer1.get_last_name())  #Output: Doe
+print(customer1.get_first_name())  # Output: Irene
+print(customer1.get_last_name())  #Output: Annah
 # print(customer1.full_name())
 
 customer1.add_review(Restaurant1, 3)
@@ -100,17 +100,17 @@ print("Restaurants reviewed by customer2:", [restaurant.name() for restaurant in
 
 print ("Number of reviews by customer1 is:",customer1.num_reviews(), "reviews.")
 
-find_customer = Customer.find_by_fullname("John Doe")
+find_customer = Customer.find_by_fullname("Irene Annah")
 if find_customer:
     print("Found customer: ", find_customer.full_name())
 else:
     print("Customer not found!")
 
-mactching_name = Customer.find_by_first_name("John")
+mactching_name = Customer.find_by_first_name("Irene")
 matching_name_list = [customer.full_name() for customer in mactching_name]
 print("Matching customer: ", matching_name_list)
 
 try:
-    customer4 = Customer("123", "Smith")
+    customer4 = Customer("123", "Mumbi")
 except ValueError as e:
     print(e)
