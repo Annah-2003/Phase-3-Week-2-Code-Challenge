@@ -4,7 +4,7 @@
 ### Object Relations Code Challenge - Restaurants
  
 
-For this assignment, we'll be working with a Yelp-style domain.
+For the assignment, we are working with a Yelp-style domain.
  
 
 We have three models:
@@ -93,10 +93,6 @@ Initializers, Readers, and Writers
 ### Project Setup
 Ensure that you have Python3 installed on your machine to run the solutions
 
-1. Clone this repository to your local machine.
-```sh
-git@github.com:Noelle-Wavinya-Maingi/Phase-3-Week-2-Code-Challenge.git
-```
 
 2. Open a terminal or command prompt.
 
@@ -116,7 +112,7 @@ git@github.com:Noelle-Wavinya-Maingi/Phase-3-Week-2-Code-Challenge.git
 6. The solution will execute and display the results on the terminal.
 
 ### Author 
-The author of the code challenge solution is [Irene Annah] done on 2/12/2023 ()
+The author of the code challenge solution is [Irene Annah] done on 2/12/2023 (https://github.com/Annah-2003/Phase-3-Week-2-Code-Challenge)
 ## Known Bugs
     No bugs detected. The programs runs perfectly.
 # Technologies Used

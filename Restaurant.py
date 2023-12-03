@@ -39,13 +39,13 @@ class Restaurant:
             return total_rating / num_rating
 
 #Restaurant instances  
-Restaurant1 = Restaurant("Cafe Deli")
-Restaurant2 = Restaurant("The Bistro")
+Restaurant1 = Restaurant(" Amka Cafe")
+Restaurant2 = Restaurant("Brew Bistro")
 
 #Review instances
-review1 = Review("John Doe", Restaurant1, 4)
-review2 = Review("Jane Smith", Restaurant2, 4.5)
-review3 = Review("John Doe", Restaurant2, 5)
+review1 = Review("Irene Annah", Restaurant1, 4)
+review2 = Review("Sheila Monroe", Restaurant2, 4.5)
+review3 = Review("Kelli Mumbi", Restaurant2, 5)
 
 #Add reviews to the respective restaurants
 Restaurant1.add_review(review1)
