@@ -116,4 +116,6 @@ The author of the code challenge solution is [Irene Annah] done on 2/12/2023 (ht
 ## Known Bugs
     No bugs detected. The programs runs perfectly.
 # Technologies Used
-- Terminal  -Python
+- Terminal  -Python  
+ ## Support and contact details
+- Email:: gitauirene56@gmail.com   - Phone:: +254717035023
