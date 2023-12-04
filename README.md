@@ -1,5 +1,6 @@
 # Phase-3-Week-2-Code-Challenge(Restaurant)
-
+### Author 
+The author of the code challenge solution is [Irene Annah] done on 2/12/2023 (https://github.com/Annah-2003/Phase-3-Week-2-Code-Challenge)
 ## Project Description
 ### Object Relations Code Challenge - Restaurants
  
@@ -111,8 +112,7 @@ Ensure that you have Python3 installed on your machine to run the solutions
 
 6. The solution will execute and display the results on the terminal.
 
-### Author 
-The author of the code challenge solution is [Irene Annah] done on 2/12/2023 (https://github.com/Annah-2003/Phase-3-Week-2-Code-Challenge)
+
 ## Known Bugs
     No bugs detected. The programs runs perfectly.
 # Technologies Used
